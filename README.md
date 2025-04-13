@@ -52,7 +52,6 @@ I have experience working across multiple domains including **web applications**
 - **Continuous Integration/Continuous Delivery (CI/CD)**
 
 ## 📬 Let's Connect!
-Feel free to reach out if you are interested in discussing test automation, software quality, or any of the topics I am passionate about.
 
 - 📧 **Email**: siddheshmadgaonkar24@gmail.com  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-madgaonkar-70a3a2289/)  
